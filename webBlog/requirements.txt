@@ -29,7 +29,7 @@ django-crispy-forms==1.9.1
 dlib==19.19.0
 face-recognition==1.2.3
 face-recognition-models==0.3.0
-Flask==0.12.2
+Flask==1.0
 gast==0.2.2
 google-auth==1.11.0
 google-auth-oauthlib==0.4.1
