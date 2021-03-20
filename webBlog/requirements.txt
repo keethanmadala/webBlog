@@ -45,7 +45,7 @@ imageio==2.6.1
 imageio-ffmpeg==0.4.2
 img2pdf==0.3.6
 itsdangerous==0.24
-Jinja2==2.10
+Jinja2==2.11.3
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 kiwisolver==1.1.0
